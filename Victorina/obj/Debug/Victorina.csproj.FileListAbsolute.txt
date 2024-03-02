@@ -1,0 +1,14 @@
+C:\Users\serge\source\repos\Victorina\bin\Debug\Victorina.exe.config
+C:\Users\serge\source\repos\Victorina\bin\Debug\Victorina.exe
+C:\Users\serge\source\repos\Victorina\bin\Debug\Victorina.pdb
+C:\Users\serge\source\repos\Victorina\obj\Debug\Victorina.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\Victorina\obj\Debug\MainWindow.baml
+C:\Users\serge\source\repos\Victorina\obj\Debug\MainWindow.g.cs
+C:\Users\serge\source\repos\Victorina\obj\Debug\App.g.cs
+C:\Users\serge\source\repos\Victorina\obj\Debug\Victorina_MarkupCompile.cache
+C:\Users\serge\source\repos\Victorina\obj\Debug\Victorina.g.resources
+C:\Users\serge\source\repos\Victorina\obj\Debug\Victorina.Properties.Resources.resources
+C:\Users\serge\source\repos\Victorina\obj\Debug\Victorina.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\Victorina\obj\Debug\Victorina.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\Victorina\obj\Debug\Victorina.exe
+C:\Users\serge\source\repos\Victorina\obj\Debug\Victorina.pdb
